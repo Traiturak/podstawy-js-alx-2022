@@ -79,12 +79,4 @@ console.log('Hello Paweł');
   //  console.log('Potrzebujesz wiecej doswiadczenie');
 //}
 
-const number 1 = prompt('Podaj pierwsza liczbe');
-const number 2 = prompt(('Podaj druga liczbe');
 
-if (number 1 > number 2) {
-    console.log('Player 1 win');
-} else if (number 1 == number 2) {
-    console.log('Prosze jeszcze raz wpisac licbe');
-} else {
-    console.log('Player 2 win');
