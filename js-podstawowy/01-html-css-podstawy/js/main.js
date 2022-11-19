@@ -597,6 +597,10 @@ console.log(`Srednia wzrostu to ${sum5 / peopleHeights.length}`);
 
 
 // 1. Za pomoca petli for (nie forof) wyswietl 10 razy swoje imie w konsoli
+for(let i = 0; i <= 8; i++) {
+console.log("Roman");
+}   
+            
 // 2. Stworz tablice zawierajaca imiona swoich znajomych. Nastepnie za pomoca petli forof, przywitaj sie z nimi uzywajac konstrukcji czesc + imie
 // 3. Stworz tablice zawierająca ceny 5 dowolnych produktów. Następnie za pomocą petli forof oblicz sumę produktów
 
